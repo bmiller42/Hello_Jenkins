@@ -1,3 +1,8 @@
+Brennan Miller
+Carlos Perez
+Inderdeep Sandhar
+Emanuel Tapia
+
 ##Hello_Jenkins <img align="right" src="img/liatrio.png">
 This simple exercise is designed to introduce you to Jenkins and continuous
 integration. This will be done in teams of 5 but we will all be working on one
